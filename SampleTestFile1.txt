@@ -3,3 +3,4 @@ Some text
 
 This is comparision lecture
 
+stash test
